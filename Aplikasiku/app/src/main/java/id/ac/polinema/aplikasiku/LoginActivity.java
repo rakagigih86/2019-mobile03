@@ -23,4 +23,6 @@ public class LoginActivity extends AppCompatActivity {
 		Intent intent = new Intent(this, SuccessLoginActivity.class);
 		startActivity(intent);
 	}
+
+
 }
